@@ -194,16 +194,7 @@ This project demonstrates advanced time-series forecasting techniques for portfo
 - Add new technical indicators
 - Implement ensemble methods
 
-## 📄 License
 
-This project is for educational and portfolio demonstration purposes.
-
-## 👤 Author
-
-**Your Name**
-- Portfolio: [your-portfolio-link]
-- LinkedIn: [your-linkedin]
-- GitHub: [your-github]
 
 ---
 
