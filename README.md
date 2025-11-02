@@ -198,7 +198,7 @@ This project demonstrates advanced time-series forecasting techniques for portfo
 
 ---
 
-## 🌟 Highlights for Portfolio
+## 🌟 Highlights
 
 ✨ **Advanced ML/DL**: LSTM neural networks with optimized architecture  
 ✨ **Financial Domain Knowledge**: Technical indicators (SMA, RSI, MACD)  
